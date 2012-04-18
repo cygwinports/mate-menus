@@ -1,0 +1,6 @@
+category: MATE
+requires: libmate-menu2 girepository-GLib2.0
+external-source: mate-menus
+sdesc: "MATE Desktop Menu Specification library (GObject Introspection)"
+ldesc: "MATE is a fork of the GNOME 2 desktop. It provides an intuitive
+and attractive desktop to Linux users using traditional metaphors."
