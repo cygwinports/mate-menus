@@ -1,7 +1,7 @@
 inherit mate python
 
 NAME="mate-menus"
-VERSION=1.6.0
+VERSION=1.8.0
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="MATE desktop menus"
